@@ -1,0 +1,28 @@
+.heading {
+  color: white;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 0;
+}
+
+.heading--primary {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 90%;
+}
+
+.heading--primary::after {
+  content: "";
+  display: block;
+  position: relative;
+  height: 1px;
+  width: 300px;
+  margin-left: 20px;
+  background: #be6aff;
+}
+
+.heading--plain {
+  display: flex;
+  justify-content: center;
+}
