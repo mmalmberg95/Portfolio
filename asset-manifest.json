@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8d09424a.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ecff7f73.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ecff7f73.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.b49bf9cc.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b49bf9cc.js.map",
+    "static/js/2.eeaece9f.chunk.js": "/Portfolio/static/js/2.eeaece9f.chunk.js",
+    "static/js/2.eeaece9f.chunk.js.map": "/Portfolio/static/js/2.eeaece9f.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.8d09424a.chunk.css.map": "/Portfolio/static/css/main.8d09424a.chunk.css.map",
+    "static/js/2.eeaece9f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.eeaece9f.chunk.js.LICENSE.txt",
+    "static/media/CardSection.css": "/Portfolio/static/media/tictac_preview.0587d468.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b49bf9cc.js",
+    "static/js/2.eeaece9f.chunk.js",
+    "static/css/main.8d09424a.chunk.css",
+    "static/js/main.ecff7f73.chunk.js"
+  ]
+}
